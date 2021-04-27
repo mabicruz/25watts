@@ -1,0 +1,240 @@
+a {
+  text-decoration: none;
+}
+
+section {
+  width: 1366px;
+  height: 768px;
+}
+
+header {
+  width: 1366px;
+  height: 768px;
+  background-image: url(../lmagenes/slider-1.png);
+}
+
+header nav {
+  height: 96px;
+  margin: 0px 0px;
+}
+
+header nav img {
+  width: 129px;
+  height: 30px;
+  margin-top: 33px;
+  margin-left: 100px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+header nav ul {
+  height: 21px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  list-style: none;
+  margin: 38px 110.5px 37px 810.5px;
+  padding: 0px;
+}
+
+header nav ul li {
+  margin-left: 40.5px;
+  color: #FFFFFF;
+  font-family: 'Roboto', sans-serif;
+  font: size 16px;
+  line-height: 21px;
+}
+
+header hr {
+  border-color: #E0752F;
+  -webkit-margin-after: 0px;
+          margin-block-end: 0px;
+  -webkit-margin-before: 0px;
+          margin-block-start: 0px;
+}
+
+header h1 {
+  width: 554px;
+  height: 115px;
+  margin-top: 158px;
+  margin-left: 101px;
+  color: #FFFFFF;
+  font-family: "Poppins", sans-serif;
+  font-size: 48px;
+  letter-spacing: 0.67px;
+  line-height: 48px;
+}
+
+header h4 {
+  margin: 30px 0px 0px 101px;
+  width: 364px;
+  height: 42px;
+  color: #FFFFFF;
+  position: absolute;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.22px;
+  line-height: 21px;
+}
+
+header button {
+  background-color: #E0752F;
+  margin-top: 125px;
+  margin-left: 101px;
+  width: 144px;
+  height: 48px;
+  border-radius: 25px;
+  border-color: #E0752F;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.section1 {
+  background-color: #FFFFFF;
+}
+
+.section1 svg {
+  background-color: #E0752F;
+  width: 32px;
+  height: 384px;
+  margin: 144px 0px 0px 0px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.section1 h2 {
+  width: 403px;
+  height: 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 167px 663px 44px 299px;
+  font-family: "Poppins", sans-serif;
+  font-size: 39px;
+  letter-spacing: 0.55px;
+  line-height: 45px;
+  position: absolute;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.section1 p {
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 768px;
+  height: 197px;
+  margin: 311px 299px 164px;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.22px;
+  line-height: 28px;
+}
+
+.section2 {
+  background-color: #F2F4F1;
+}
+
+.section2 svg {
+  margin-left: 968px;
+  width: 398px;
+  height: 768px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  background-color: #DCE1DA;
+}
+
+.section2 img {
+  width: 966px;
+  height: 552px;
+  margin: 112px 200px 104px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.section2 div {
+  width: 471px;
+  height: 304px;
+  background-color: #E0752F;
+  margin: 360px 200px 104px 695px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+}
+
+.section2 div h4 {
+  width: 137px;
+  height: 21px;
+  margin: 68px 284px 215px 50px;
+  position: absolute;
+  color: #FFFFFF;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.22px;
+  line-height: 21px;
+}
+
+.section2 div h2 {
+  margin: 83px 192px 166px 50px;
+  width: 231px;
+  height: 55px;
+  position: absolute;
+  color: #FFFFFF;
+  font-family: "Poppins", sans-serif;
+  font-size: 39px;
+  letter-spacing: 0.55px;
+  line-height: 59px;
+}
+
+.section2 div p {
+  width: 372px;
+  height: 63px;
+  margin: 157.5px 49px 835px 50px;
+  position: absolute;
+  color: #FFFFFF;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.22px;
+  line-height: 21px;
+}
+
+footer {
+  background-color: #343434;
+  width: 1366px;
+  height: 96px;
+}
+
+footer p {
+  color: #DCE1DA;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.22px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  margin: 38px 0px 37px 101px;
+}
+
+footer img {
+  margin: 38px 101px 38px 1179px;
+  width: 86px;
+  height: 20px;
+}
+/*# sourceMappingURL=style.css.map */

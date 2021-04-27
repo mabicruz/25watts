@@ -1,0 +1,97 @@
+
+.section1{
+    background-color: $color-secundary;
+    svg{
+        background-color: $color-primary;
+        width: 32px;
+        height: 384px;
+        margin: 144px 0px 0px 0px;
+        position: absolute;
+        display: flex;
+    }
+    h2{
+        width: 403px;
+        height: 100px;
+        display: flex;
+        margin: 167px 663px 44px 299px;
+        font-family: $style-letter-2;
+        font-size: 39px;
+        letter-spacing: 0.55px;
+        line-height: 45px;
+        position: absolute;
+        flex-direction: column;
+
+    }
+    p{
+        position: absolute;
+        display: flex;
+        width: 768px;
+        height: 197px;
+        margin: 311px 299px 164px;
+        font-family: $style-letter-1;
+        font-size: 16px;
+        letter-spacing: 0.22px;
+        line-height: 28px;
+    }
+}
+.section2{
+    background-color: $color-terceary;
+    svg{
+        margin-left: 968px;
+        width: 398px;
+        height: 768px;
+        display: flex;
+        position: absolute;
+        background-color: #DCE1DA;
+    }
+    img{
+        width: 966px;
+        height: 552px;
+        margin: 112px 200px 104px;
+        position: absolute;
+        display: flex;
+    }
+    div{
+        width: 471px;
+        height: 304px;
+        background-color: $color-primary;
+        margin:360px 200px 104px 695px;
+        display: flex;
+        position: absolute;
+        h4{
+            width: 137px;
+            height: 21px;
+            margin: 68px 284px 215px 50px;
+            position: absolute;
+            color: $color-secundary;
+            font-family: $style-letter-1;
+            font-size: 16px;
+            letter-spacing: 0.22px;
+            line-height: 21px;
+        }
+        h2{
+            margin: 83px 192px 166px 50px;
+            width: 231px;
+            height: 55px;
+            position: absolute;
+            color: $color-secundary;
+            font-family: $style-letter-2;
+            font-size: 39px;
+            letter-spacing: 0.55px;
+            line-height: 59px;
+        }
+        p{
+            width: 372px;
+            height: 63px;
+            margin: 157.5px 49px 835px 50px;
+            position: absolute;
+            color: $color-secundary;
+            font-family: $style-letter-1;
+            font-size: 16px;
+            letter-spacing: 0.22px;
+            line-height: 21px;
+        }
+        
+    }
+    
+}
